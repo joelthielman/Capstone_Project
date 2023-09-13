@@ -273,3 +273,13 @@ all_trips_v2 %>%
 counts <- aggregate(all_trips_v2$ride_length ~ all_trips_v2$member_casual + all_trips_v2$day_of_week, FUN = mean)
 write.csv(counts, "~/Capstone Project/Data/avg_ride_length.csv")
 ```
+
+# STEP 6: PRESENT KEY FINDINGS TO STAKEHOLDERS
+
+![Cyclistic Bike-Share Case Study](https://github.com/joelthielman/Capstone_Project/assets/144933946/807b5f43-bf24-4b76-aa2d-66de90e2467c)
+![Cyclistic Bike-Share Case Study (1)](https://github.com/joelthielman/Capstone_Project/assets/144933946/d12f19af-574e-4f6f-b019-eb7bd30e125a)
+![Cyclistic Bike-Share Case Study (2)](https://github.com/joelthielman/Capstone_Project/assets/144933946/cec3255d-9266-4e73-b5e2-35f29e1baf00)
+![Cyclistic Bike-Share Case Study (3)](https://github.com/joelthielman/Capstone_Project/assets/144933946/64d7553a-93da-468a-81ec-a3bd9f8404ce)
+![Cyclistic Bike-Share Case Study (4)](https://github.com/joelthielman/Capstone_Project/assets/144933946/db54e474-167a-456a-a40c-81287687554b)
+![Cyclistic Bike-Share Case Study (5)](https://github.com/joelthielman/Capstone_Project/assets/144933946/4bb4e7c3-7166-4947-87fb-917f68503aa8)
+
