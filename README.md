@@ -282,4 +282,3 @@ write.csv(counts, "~/Capstone Project/Data/avg_ride_length.csv")
 ![Cyclistic4](Cyclistic4.png)
 ![Cyclistic5](Cyclistic5.png)
 ![Cyclistic6](Cyclistic6.png)
-
