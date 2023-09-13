@@ -250,7 +250,7 @@ all_trips_v2 %>%
   geom_col(position = "dodge")
 ```
 
-![Rides_by_rider_type](https://github.com/joelthielman/Capstone_Project/assets/144933946/d612b98b-3d20-4dee-863a-45d561775a7b)
+![Rides_by_rider_type](https://github.com/joelthielman/Capstone_Project/assets/144933946/82ac6bd5-377b-4381-b973-b19265d6c5da)
 
 #### Let's create a visualization for average duration
 ```
@@ -264,7 +264,7 @@ all_trips_v2 %>%
   geom_col(position = "dodge")
 ```
 
-![Average_duration](https://github.com/joelthielman/Capstone_Project/assets/144933946/5890c56f-4b94-473e-b50d-605ddfbb580c)
+![Average_duration](https://github.com/joelthielman/Capstone_Project/assets/144933946/53e0b572-9df4-4ac0-933b-c350421acba2)
 
 # STEP 5: EXPORT SUMMARY FILE FOR FURTHER ANALYSIS
 
@@ -276,10 +276,11 @@ write.csv(counts, "~/Capstone Project/Data/avg_ride_length.csv")
 
 # STEP 6: PRESENT KEY FINDINGS TO STAKEHOLDERS
 
-![Cyclistic Bike-Share Case Study](https://github.com/joelthielman/Capstone_Project/assets/144933946/807b5f43-bf24-4b76-aa2d-66de90e2467c)
-![Cyclistic Bike-Share Case Study (1)](https://github.com/joelthielman/Capstone_Project/assets/144933946/d12f19af-574e-4f6f-b019-eb7bd30e125a)
-![Cyclistic Bike-Share Case Study (2)](https://github.com/joelthielman/Capstone_Project/assets/144933946/cec3255d-9266-4e73-b5e2-35f29e1baf00)
-![Cyclistic Bike-Share Case Study (3)](https://github.com/joelthielman/Capstone_Project/assets/144933946/64d7553a-93da-468a-81ec-a3bd9f8404ce)
-![Cyclistic Bike-Share Case Study (4)](https://github.com/joelthielman/Capstone_Project/assets/144933946/db54e474-167a-456a-a40c-81287687554b)
-![Cyclistic Bike-Share Case Study (5)](https://github.com/joelthielman/Capstone_Project/assets/144933946/4bb4e7c3-7166-4947-87fb-917f68503aa8)
+![Cyclistic Bike-Share Case Study](https://github.com/joelthielman/Capstone_Project/assets/144933946/f9d33e23-07a0-4fcb-bae7-e37e2a97464c)
+![Cyclistic Bike-Share Case Study (1)](https://github.com/joelthielman/Capstone_Project/assets/144933946/2c2783e5-4a59-4a43-bf5e-52cd2f838fa6)
+![Cyclistic Bike-Share Case Study (2)](https://github.com/joelthielman/Capstone_Project/assets/144933946/b4f0bacd-be13-4abe-895b-3f3bc8cfdcb0)
+![Cyclistic Bike-Share Case Study (3)](https://github.com/joelthielman/Capstone_Project/assets/144933946/7fcb5b01-15e0-48dd-b137-58513cddf00c)
+![Cyclistic Bike-Share Case Study (4)](https://github.com/joelthielman/Capstone_Project/assets/144933946/4a6dc030-c199-4bd5-b4cb-4647c43dc57a)
+![Cyclistic Bike-Share Case Study (5)](https://github.com/joelthielman/Capstone_Project/assets/144933946/6bf09e28-373a-4ef5-9e59-f49df68084c0)
+
 
