@@ -264,7 +264,7 @@ all_trips_v2 %>%
   geom_col(position = "dodge")
 ```
 
-![Average_duration](Average_duration)
+![Average_duration](Average_duration.png)
 
 # STEP 5: EXPORT SUMMARY FILE FOR FURTHER ANALYSIS
 
@@ -276,6 +276,10 @@ write.csv(counts, "~/Capstone Project/Data/avg_ride_length.csv")
 
 # STEP 6: PRESENT KEY FINDINGS TO STAKEHOLDERS
 
-
-
+![Cyclistic1](Cyclistic1.png)
+![Cyclistic2](Cyclistic2.png)
+![Cyclistic3](Cyclistic3.png)
+![Cyclistic4](Cyclistic4.png)
+![Cyclistic5](Cyclistic5.png)
+![Cyclistic6](Cyclistic6.png)
 
