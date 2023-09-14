@@ -1,5 +1,7 @@
 # Cyclistic Case Study
 
+![Cyclistic.png](Cyclistic.png)
+
 This analysis is for case study 1 from the Google Data Analytics Certificate
 (Cyclistic).  It’s originally based on the case study "'Sophisticated, Clear,
 and Polished’: Divvy and Data Visualization" written by Kevin Hartman (found
